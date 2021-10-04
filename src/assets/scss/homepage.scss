@@ -1,0 +1,24 @@
+.homepage {
+    .home-title {
+        // background-color: rgba(255, 255, 255, 0.7);
+        // padding:5px 20px;
+        font-weight: bolder;
+        color:rgb(255, 255, 255);
+        text-shadow: 0px 2px #747474;
+    }
+
+    .homepage-icon {
+
+        .icon {
+            width: 300px;
+            height: 300px;
+        }
+    }
+
+    .button-container{
+        .button{
+            padding: .575rem 2.75rem !important;
+            
+        }
+    }
+}
